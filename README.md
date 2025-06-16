@@ -11,7 +11,8 @@ Já concluí o curso de **Java e Spring Boot** na Alura e um curso básico de **
 
 Estou sempre em busca de novos aprendizados, gosto de enfrentar desafios e procuro uma oportunidade para colocar em prática minhas habilidades, contribuir com o time e evoluir como profissional.  
 
- Tenho facilidade para trabalhar em equipe, sou calmo e paciente para explicar quando alguém precisa de ajuda, e acredito que o sucesso vem do esforço coletivo.  
+ Tenho facilidade para trabalhar em equipe, sou calmo e paciente para explicar quando alguém precisa de ajuda, e acredito que o sucesso vem do esforço coletivo.
+ 
 Meu objetivo é crescer na área de tecnologia e fazer parte de projetos que impactem positivamente a vida das pessoas.
 
 ---
