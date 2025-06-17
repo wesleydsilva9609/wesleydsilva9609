@@ -48,7 +48,7 @@ Meu objetivo é crescer na área de tecnologia e fazer parte de projetos que imp
   <a href="https://www.instagram.com/wesley.deivid.7/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:wesleydeivid23@gmail.com" target="_blank">
+  <a href="mailto:wesleydsilva96@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wesley-silva-01a134346/" target="_blank">
